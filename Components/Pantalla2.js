@@ -1,6 +1,10 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
+
+/**
+ * @returns Devuevle la vista de la pantalla
+ */
 const Pantalla2 = () => {
   return (
     <View style={styles.container}>
